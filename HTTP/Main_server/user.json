@@ -1,0 +1,17 @@
+{
+
+"send or update": {
+    "Packet_type": "send",
+    "Name": "e.g.",
+    "Data": {
+        "data_name_here": 123,
+        "data_name_here2": "test"
+    }
+},
+
+"": {
+    "Packet_type": "Get",
+    "Name": "e.g."
+}
+
+}
